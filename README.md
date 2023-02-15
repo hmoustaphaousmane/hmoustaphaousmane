@@ -15,8 +15,8 @@ Je suis Hassane Moustapha Ousane, un aspirant Data Scientist, nantis d'un Licenc
 
 ### 🛠 Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane)](https://github.com/hmoustaphaousmane/github-readme-stats)
 ![hmoustaphaousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane&layout=compact)](https://github.com/hmoustaphaousmane/github-readme-stats)
 
 <!--
 **hmoustaphaousmane/hmoustaphaousmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
