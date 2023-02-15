@@ -15,19 +15,17 @@ Je suis Hassane Moustapha Ousane, un aspirant Data Scientist, nantis d'un Licenc
 - 😄 Pronouns: he/him
 
 ### 🛠 Languages and Tools
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></code>
+<code><img height="20" src="[https://https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
+<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
+
 <!--
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
 -->
 
