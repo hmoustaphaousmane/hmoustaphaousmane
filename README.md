@@ -6,7 +6,7 @@
 https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg
 -->
 
-Je suis Hassane Moustapha Ousane, un aspirant Data Scientist, nantis d'un Licence en Informatique Fondamentale et bintôt diplômé d'une Licence professionnelle et d'une Certification [Simplon](https://simplonline.co/) en Data Development à la Faculté des Sciences Exactes et Appliquées de l'Université de N'Djamèna. Je suis capable de créer des bases de données, les structurer, les organiser ainsi que garantir un accès rapide et fonctionnel à toutes les données afin de répondre aux besoins des entreprises.
+Je suis [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), un aspirant Data Scientist, nantis d'un Licence en Informatique Fondamentale et bintôt diplômé d'une Licence professionnelle et d'une Certification [Simplon](https://simplonline.co/) en Data Development à la Faculté des Sciences Exactes et Appliquées de l'Université de N'Djamèna. Je suis capable de créer des bases de données, les structurer, les organiser ainsi que garantir un accès rapide et fonctionnel à toutes les données afin de répondre aux besoins des entreprises.
 
 - 🔭 I’m currently working on a data development project for academic perpose
 - 🌱 I’m currently learning Data Development
