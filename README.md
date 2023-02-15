@@ -1,8 +1,4 @@
 ### Hi there 👋
-<!--
-<a href="https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/">
-  <img alt="Hassane Moustapha Ousmane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
-</a>
 https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg
 <a href="https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/">
   <img align="left" alt="Hassane Moustapha Ousmane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
