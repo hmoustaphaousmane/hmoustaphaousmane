@@ -15,7 +15,7 @@ Je suis Hassane Moustapha Ousane, un aspirant Data Scientist, nantis d'un Licenc
 - 😄 Pronouns: he/him
 
 ### 🛠 Languages and Tools
-<code><img height="20" src="[https://https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
