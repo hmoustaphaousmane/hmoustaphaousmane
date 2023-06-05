@@ -19,16 +19,18 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspirin
 ### 🛠 Languages and Tools
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png"></code>
-<!-- <code><img height="20" src="https://github.com/hmoustaphaousmane/hmoustaphaousmane/assets/66555033/aac326d3-35f9-477e-9f1a-6377edb68cfd"></code> -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-226055.png"></code>
+<code><img height="20" src="https://github.com/hmoustaphaousmane/hmoustaphaousmane/assets/66555033/aac326d3-35f9-477e-9f1a-6377edb68cfd"></code>
 <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
-<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
+<!-- <code><img height="20" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png"></code> -->
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
 <!-- <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png"></code> -->
+<!-- <code><img height="20" src=""></code> -->
 
 
 ### Statistics
