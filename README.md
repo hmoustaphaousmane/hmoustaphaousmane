@@ -8,10 +8,10 @@
 Je suis [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), un aspirant Data Scientist, nantis d'un Licence en Informatique Fondamentale et bintôt diplômé d'une Licence professionnelle et d'une Certification [Simplon](https://simplonline.co/) en Data Development à la Faculté des Sciences Exactes et Appliquées de l'Université de N'Djamèna. Je suis capable de créer des bases de données, les structurer, les organiser ainsi que garantir un accès rapide et fonctionnel à toutes les données afin de répondre aux besoins des entreprises.
 -->
 
-I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspiring Data Scientist, with a Bachelor's Degree in Computer Science and soon graduated with a Professional Bachelor's Degree and a [Simplon](https://simplonline.co/) Certification in Data Development at the Faculty of Exact an Applied Sciences of the University of N'Djamèna. I am able to create databases, structure and organize them as well as ensure fast and functional access to all data to meet the needs of businesses (companies).
+I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspiring Data Scientist, with a Bachelor's Degree in Computer Science and soon graduated with a Professional Bachelor's Degree and a [Simplon](https://simplonline.co/) Certificate, both, in Data Development at the Faculty of Exact an Applied Sciences of the University of N'Djamèna. I am able to create databases, structure and organize them as well as ensure fast and functional access to all data to meet the needs of businesses (companies).
 
 - 🔭 I’m currently working on a data development project for academic perpose
-- 🌱 I’m currently learning Data Development
+- 🌱 I’m currently learning Data Development : Machine Learning (Initiation), Data Warehousing, Data Visualization
 - 👯 I’m looking to collaborate on projects about data development and web development
 - 📫 I'm reachable at at [Hassane Moustapha Ousmane](https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/)
 - 😄 Pronouns: he/him
