@@ -14,7 +14,6 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspirin
 - 🌱 I’m currently learning Data Development : Machine Learning (Initiation), Data Warehousing, Data Visualization
 - 👯 I’m looking to collaborate on projects about data development and web development
 - 📫 I'm reachable at at [Hassane Moustapha Ousmane](https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/)
-- 😄 Pronouns: he/him
 
 ### 🛠 Languages and Tools
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
