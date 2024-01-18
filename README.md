@@ -10,7 +10,7 @@ Je suis [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), un aspi
 
 I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspiring Data Scientist, with a Bachelor's Degree in Computer Science and soon graduated with a Professional Bachelor's Degree and a [Simplon](https://simplonline.co/) Certificate, both, in Data Development at the Faculty of Exact an Applied Sciences of the University of N'Djamèna. I am able to create databases, structure and organize them as well as ensure fast and functional access to all data to meet the needs of businesses (companies).
 
-- 🔭 I’m currently working on a data development project for academic perpose
+- 🔭 I’m currently working on a data development project for academic purpose
 - 🌱 I’m currently learning Data Development : Machine Learning (Initiation), Data Warehousing, Data Visualization
 - 👯 I’m looking to collaborate on projects about data development and web development
 - 📫 I'm reachable at at [Hassane Moustapha Ousmane](https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/)
@@ -18,22 +18,22 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspirin
 ### 🛠 Languages and Tools
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-226055.png"></code>
 <code><img height="20" src="https://github.com/hmoustaphaousmane/hmoustaphaousmane/assets/66555033/aac326d3-35f9-477e-9f1a-6377edb68cfd"></code>
 <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
-<!-- <code><img height="20" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png"></code> -->
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
 <code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
-<!-- <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png"></code> -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-282493.png?f=webp&w=256"></code>
+<!-- <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code> -->
 <!-- <code><img height="20" src=""></code> -->
+<!-- <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-226055.png"></code> -->
 
 
 ### Statistics
 ![hmoustaphaousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=radical)
+<!-- ![hmoustaphaousmane's github stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=tokyonight) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane&layout=compact)](https://github.com/hmoustaphaousmane/github-readme-stats)
 
 <!--
