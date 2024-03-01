@@ -32,9 +32,25 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspirin
 
 
 ### Statistics
-![hmoustaphaousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=radical)
 <!-- ![hmoustaphaousmane's github stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane&layout=compact)](https://github.com/hmoustaphaousmane/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmoustaphaousmane&layout=compact)
+
+<!-- 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&theme=default" />
+</picture>
+-->
+![hmoustaphaousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=radical)
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmoustaphaousmane&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmoustaphaousmane&theme=radical" alt="GitHub Streak" /></a>
+-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hmoustaphaousmane&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=hmoustaphaousmane&theme=default" />
+</picture>
 
 <!--
 **hmoustaphaousmane/hmoustaphaousmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
