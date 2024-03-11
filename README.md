@@ -24,8 +24,9 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), an aspirin
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"></code>
-<code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-282493.png?f=webp&w=256"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/flutter-icon-512x512-k9y8x41t.png"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code>
 <!-- <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code> -->
 <!-- <code><img height="20" src=""></code> -->
 <!-- <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-226055.png"></code> -->
