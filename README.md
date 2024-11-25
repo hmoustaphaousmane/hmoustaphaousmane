@@ -8,32 +8,20 @@
 Je suis [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), un aspirant Data Scientist, nantis d'un Licence en Informatique Fondamentale et bintôt diplômé d'une Licence professionnelle et d'une Certification [Simplon](https://simplonline.co/) en Data Development à la Faculté des Sciences Exactes et Appliquées de l'Université de N'Djamèna. Je suis capable de créer des bases de données, les structurer, les organiser ainsi que garantir un accès rapide et fonctionnel à toutes les données afin de répondre aux besoins des entreprises.
 -->
 
-I am [Hassane Moustapha Ousane](https://hmoustaphaousmane.github.io), a Data Engineering student (University of N'Djamena) and an aspiring Data Scientist.
+I am [Hassane Moustapha Ousane](https://hmoustaphaousmane-portfolio.vercel.app/), a Data Engineering student (University of N'Djamena) and an aspiring Data Scientist.
 <!-- with a Bachelor's Degree in Computer Science (University of Dschang) and recently graduated with a Professional Bachelor's Degree in Data Development (University of N'Djamèna).-->
 I am proficient in Python (with Django and Flask), Ruby (Ruby on Rails), JavaScript and C. I am also experienced in Database Management with SQL (MySQL and PostgreSQL in particular) and confortable with Linux environment and command line tools. I have a good knowledge of version control system with Git and GitHub as well. Thus, I have the ability to create databases, structure and organize them as well as ensure fast and functional access to all data to meet the needs of businesses (companies) and to build web applications.
 
-- 🔭 I’m currently working on a chatbot app using OpenAI's API key alongside LangChain
-- 🌱 I’m currently learning Machine Learning and Chatbot Development
-- 👯 I’m looking to collaborate on projects about chat development, data development, machine learning and artificial intelligence
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning Natural Language Processing with Python
+- 👯 I’m looking to collaborate on projects about web development, chat development and data analysis
 - 📫 I'm reachable at at [Hassane Moustapha Ousmane](https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/)
 
 ### 🛠 Languages and Tools
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> <!-- Python -->
-<code><img height="20" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code> <!-- Django -->
-<code><img height="20" src="https://github.com/hmoustaphaousmane/hmoustaphaousmane/assets/66555033/aac326d3-35f9-477e-9f1a-6377edb68cfd"></code> <!-- Rails -->
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code> <!-- Git -->
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code> <!-- GitHub -->
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code> <!-- MySQL -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code> <!-- PostgreSQL -->
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></code> <!-- Linux -->
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"></code> <!-- Ubuntu -->
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-282493.png?f=webp&w=256"></code> <!-- Symfony -->
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/flutter-icon-512x512-k9y8x41t.png"></code> <!-- Flutter -->
-<code><img height="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"></code> <!-- JavaScript -->
-<!-- <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code> -->
-<!-- <code><img height="20" src=""></code> -->
-<!-- <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-ruby-226055.png"></code> -->
-
+<img
+src='https://skillicons.dev/icons?i=django,flask,git,github,js,linux,mongodb,mysql,nodejs,npm,postgres,python,rails,redux,vite,vscode'
+alt='hmoustaphousmane'
+/>
 
 ### Statistics
 <!-- ![hmoustaphaousmane's github stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=tokyonight) -->
