@@ -35,14 +35,14 @@ alt='hmoustaphousmane'
 -->
 ![hmoustaphaousmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmoustaphaousmane&show_icons=true&theme=radical)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmoustaphaousmane&theme=radical" alt="GitHub Streak" /></a>
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmoustaphaousmane&theme=radical)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hmoustaphaousmane&theme=radical" alt="GitHub Streak" /></a>
--->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hmoustaphaousmane&theme=radical" />
     <img src="https://streak-stats.demolab.com?user=hmoustaphaousmane&theme=default" />
 </picture>
+-->
 
 <!--
 **hmoustaphaousmane/hmoustaphaousmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
