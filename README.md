@@ -12,14 +12,14 @@ I am [Hassane Moustapha Ousane](https://hmoustaphaousmane-portfolio.vercel.app/)
 <!-- with a Bachelor's Degree in Computer Science (University of Dschang) and recently graduated with a Professional Bachelor's Degree in Data Development (University of N'Djamèna).-->
 I am proficient in Python (with Django and Flask), Ruby (Ruby on Rails), JavaScript and C. I am also experienced in Database Management with SQL (MySQL and PostgreSQL in particular) and confortable with Linux environment and command line tools. I have a good knowledge of version control system with Git and GitHub as well. Thus, I have the ability to create databases, structure and organize them as well as ensure fast and functional access to all data to meet the needs of businesses (companies) and to build web applications.
 
-- 🔭 I’m currently working on building my portfolio
+- 🔭 I’m currently working on a web development training program
 - 🌱 I’m currently learning Natural Language Processing with Python
-- 👯 I’m looking to collaborate on projects about web development, chat development and data analysis
+- 👯 I’m looking to collaborate on projects about web development, chatbot development and data analysis
 - 📫 I'm reachable at at [Hassane Moustapha Ousmane](https://www.linkedin.com/in/hassane-moustapha-ousmane-6b9549228/)
 
 ### 🛠 Languages and Tools
 <img
-src='https://skillicons.dev/icons?i=django,flask,git,github,js,linux,mongodb,mysql,nodejs,npm,postgres,python,rails,redux,vite,vscode'
+src='https://skillicons.dev/icons?i=angular,c,django,flask,git,github,java,js,linux,mongodb,mysql,nodejs,npm,php,postgres,python,rails,react,redux,ubuntu,vite,vscode'
 alt='hmoustaphousmane'
 />
 
